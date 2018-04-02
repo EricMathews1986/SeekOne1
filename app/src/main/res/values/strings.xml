@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SeekOne</string>
+    <string name="login_Message">Please enter your EID</string>
+    <string name="eid_hint">Your EID</string>
+    <string name="Go_Seek">Start</string>
+    <string name="associate_name">Name</string>
+    <string name="associate_role">Role</string>
+    <string name="associate_location">Location</string>
+    <string name="my_profile">My Profile</string>
+</resources>
+
+
